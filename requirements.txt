@@ -1,5 +1,3 @@
 streamlit
-scipy
 nltk
-pickle-mixin
 scikit-learn
